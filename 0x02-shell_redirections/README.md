@@ -1,1 +1,1 @@
-0x02, shell, I/o redirections and filters
+(shell, I/o Redirections and filters:) 
